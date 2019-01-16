@@ -1,1 +1,1 @@
-chocolately
+chocolatey
